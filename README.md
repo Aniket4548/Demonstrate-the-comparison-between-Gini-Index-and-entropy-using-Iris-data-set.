@@ -1,0 +1,1 @@
+# Demonstrate-the-comparison-between-Gini-Index-and-entropy-using-Iris-data-set.
